@@ -3,7 +3,7 @@
   Plugin Name: Our Word Filter Plugin
   Description: Replaces a list of words.
   Version 1.0
-  Author: Brad
+  Author: Akshay 
   Author URI: https://www.udemy.com/user/bradschiff/
 */
 
